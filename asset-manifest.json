@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/garmin-compare/static/css/main.073c9b0a.css",
-    "main.js": "/garmin-compare/static/js/main.30405145.js",
+    "main.js": "/garmin-compare/static/js/main.f0aaf49b.js",
     "static/js/787.090cf2be.chunk.js": "/garmin-compare/static/js/787.090cf2be.chunk.js",
     "index.html": "/garmin-compare/index.html",
     "main.073c9b0a.css.map": "/garmin-compare/static/css/main.073c9b0a.css.map",
-    "main.30405145.js.map": "/garmin-compare/static/js/main.30405145.js.map",
+    "main.f0aaf49b.js.map": "/garmin-compare/static/js/main.f0aaf49b.js.map",
     "787.090cf2be.chunk.js.map": "/garmin-compare/static/js/787.090cf2be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.30405145.js"
+    "static/js/main.f0aaf49b.js"
   ]
 }
