@@ -1,0 +1,32 @@
+.*
+dist
+node_modules
+generated
+graphql
+assets
+
+# src folder files
+
+_redirects
+favicon.ico
+karma.conf.js
+manifest.json
+polyfills.ts
+test.js
+tsconfig*
+
+# root folder files
+
+angular.json
+codegen.yml
+deploy-demo.sh
+deploy-prod.sh
+graphql.schema.json
+ngsw-config.json
+package-lock.json
+package.json
+Procfile
+README.md
+server.js
+tsconfig.json
+yarn.lock
